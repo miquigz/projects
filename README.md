@@ -1,4 +1,4 @@
-#First Web Page (portfolio).
+# ENG: First Web Page (portfolio).
 
 Made at the end of 2020, without any kind of framework.
 
@@ -7,7 +7,7 @@ Made at the end of 2020, without any kind of framework.
 
 
 
-#Primer P'agina Web (portafolio).
+# ESP: Primer P'agina Web (portafolio).
 
 Hecha a finales de 2020, sin ning'un tipo de framework.
 
